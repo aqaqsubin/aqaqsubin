@@ -1,5 +1,5 @@
 ### Hi there 👋
- I organize a group of developers who write blog posts - [devapp](https://cnu-devapp.blogspot.com/)
+ I organize a group of developers who Contribute to NextCloud - [devapp](https://cnu-devapp.blogspot.com/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aqaqsubin)](https://github.com/anuraghazra/github-readme-stats)
 [  
