@@ -8,9 +8,7 @@
 ### Interest 🌱
 
 - Text Summarization
-- Chat-bot
-- Speaker Recognition
-- Data visualization (with R)
+- Dialogue System  
 
 ### Tech Stack 🌱
 
