@@ -1,5 +1,4 @@
 ### Hi there 👋
- I organize a group of developers who Contribute to NextCloud - [devapp](https://cnu-devapp.blogspot.com/)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aqaqsubin)](https://github.com/anuraghazra/github-readme-stats)
 [  
@@ -31,3 +30,5 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
 </div>
+
+ I organize a group of developers who Contribute to NextCloud - [devapp](https://cnu-devapp.blogspot.com/)
