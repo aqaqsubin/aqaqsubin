@@ -31,4 +31,7 @@
 <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
 </div>
 
- I organize a group of developers who Contribute to NextCloud - [devapp](https://cnu-devapp.blogspot.com/)
+<br>
+ 
+### ETC 🌱
+I organize a group of developers who Contribute to NextCloud - [devapp](https://cnu-devapp.blogspot.com/)
