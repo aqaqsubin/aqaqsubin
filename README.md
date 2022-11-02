@@ -32,6 +32,3 @@
 </div>
 
 <br>
- 
-### ETC 🌱
-I organize a group of developers who Contribute to NextCloud - [devapp](https://cnu-devapp.blogspot.com/)
