@@ -6,8 +6,10 @@
 
 ### Interest 🌱
 
-- Text Summarization
+- Video to Text    
 - Dialogue System  
+- Text Summarization
+
 
 ### Tech Stack 🌱
 
