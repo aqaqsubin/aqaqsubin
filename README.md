@@ -1,15 +1,15 @@
-### Hi there 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Hi%20there!&fontAlign=19&fontSize=50&fontAlignY=40&descAlign=20&descAlignY=59&desc=Subin%20Kim's%20Github&descSize=18&textBg=false&animation=twinkling" />
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=aqaqsubin)](https://github.com/anuraghazra/github-readme-stats)
-[  
-](https://github.com/anuraghazra/github-readme-stats)
+### I'm Subin Kim 👋
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aqaqsubin&show_icons=true&theme=radical)&nbsp;
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=aqaq925120k)](https://solved.ac/aqaq925120k)
 
 ### Interest 🌱
 
-- Video to Text    
-- Dialogue System  
-- Text Summarization
-
+- Dialogue System
+- Multimodal Dialogue State Tracking
 
 ### Tech Stack 🌱
 
