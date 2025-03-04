@@ -38,4 +38,3 @@
 ### Curriculum Vitae 🔥
 
 - [Notion](https://www.notion.so/4b1013ffb02f406a9d23afe38f3fb016)
-- [Portfolio Presentation](https://drive.google.com/file/d/1Z3SfiNNB5TLfxsPZDjEKZvtBMWzdaJAu/view)
